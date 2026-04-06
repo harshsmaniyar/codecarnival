@@ -1,5 +1,5 @@
 correct_username = "Harsh"
-correct_password = "1234"
+correct_password = "12345678"
 
 username = input("Enter username: ")
 password = input("Enter password: ")
